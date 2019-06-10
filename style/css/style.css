@@ -1,6 +1,17 @@
 .nav {
     background-color: #333333;
     color: #9ca9b7;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+.nav .nav-link {
+    color: white;
+}
+
+.dropdown-item {
+    color: black;
 }
 
 .nav:hover {
