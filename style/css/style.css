@@ -32,3 +32,10 @@
     color: white;
     font-size: 30px;
 }
+
+/* HOMEPAGE TEXT */
+
+.card {
+    margin: auto;
+    margin-top: 10%;
+}
