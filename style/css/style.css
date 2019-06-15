@@ -12,6 +12,10 @@
     color: white;
 }
 
+.nav .nav-link:hover {
+    color: #cecece;
+}
+
 .dropdown-item {
     color: black;
 }
@@ -38,4 +42,13 @@
 .card {
     margin: auto;
     margin-top: 10%;
+}
+
+/* FOOTER STYLING */
+
+.footer {
+    margin-top: 10%;
+    width: auto;
+    background-color: white;
+    text-align: center;
 }
