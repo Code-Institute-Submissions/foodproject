@@ -69,3 +69,7 @@
     background-color: grey;
 }
 
+#openinghours .list-group-item {
+    border: none;
+    padding: 0;
+}
