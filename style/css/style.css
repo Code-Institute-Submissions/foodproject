@@ -52,3 +52,20 @@
     background-color: white;
     text-align: center;
 }
+
+/* ABOUT PAGE STYLING */
+
+#aboutimg {
+    height: 400px;
+    width: 600px;
+    padding-left: 50px;
+}
+
+/* Locations page styling */
+
+#bristolmap {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+
