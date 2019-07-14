@@ -26,7 +26,7 @@
 
 /* CAROUSEL STYLING */
 
-.carousel-item img{
+.carousel-item img {
     max-height: 800px;
     max-width: auto;
 }
@@ -56,12 +56,16 @@
 /* ABOUT PAGE STYLING */
 
 #aboutimg {
-    height: 400px;
-    width: 600px;
-    padding-left: 50px;
+    height: 280px;
+    margin: auto;
+    padding-top: 10%;
 }
 
-/* Locations page styling */
+#abouttext {
+    padding: 2%;
+}
+
+/* MAP STYLING */
 
 #bristolmap {
     width: 100%;
@@ -72,4 +76,20 @@
 #openinghours .list-group-item {
     border: none;
     padding: 0;
+}
+
+
+/* RESPONSIVE CODE */
+
+@media (min-width: 991.98px) {
+    #abouttext {
+        padding-top: 2%;
+    }
+    #abouttitle {
+        padding-top: 7%;
+    }
+    #aboutimg {
+        padding-left: 25%;
+        padding-top: 6%;
+    }
 }
